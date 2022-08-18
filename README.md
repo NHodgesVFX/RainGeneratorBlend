@@ -24,15 +24,15 @@ This Blend file provides a Geo Nodes group which can help you simulate rain usin
 
 ## Geo Node Group Documentation
 
-- **Density - **Controls the amount of instances spawned
+- **Density -** Controls the amount of instances spawned
 
-- **Seed - **Random Seed, changing this value allows you to get different results
+- **Seed -** Random Seed, changing this value allows you to get different results
 
-- **Min Scale - **The minimum scale of instanced objects
+- **Min Scale -** The minimum scale of instanced objects
 
 - **Max Scale -** The maximum scale of instanced objects
 
-- **Rotation Min - **The minimum rotation of instanced objects
+- **Rotation Min -** The minimum rotation of instanced objects
 
 - **Rotation Max -** The maximum rotation of instanced objects
 
@@ -65,10 +65,3 @@ Please report issues on the [Github issues page](<https://github.com/NHodgesVFX/
 ## Download
 
 [Click Here](<https://github.com/NHodgesVFX/RainGeneratorBlend/raw/main/RainGenerator.blend>)
-
-
----
-
-_Created on: Aug 17, 2022, 10:47 PM_
-
-_Edited on: Aug 18, 2022, 12:07 AM_
