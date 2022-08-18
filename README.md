@@ -1,4 +1,4 @@
-# Rain Generator Blend Docs
+# Rain Generator Blend
 
 ## Description
 
